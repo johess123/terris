@@ -2,6 +2,7 @@
 
 <h2>使用說明</h2>
   - 解壓縮下載的壓縮檔
+  
   - 打開 dist 資料夾中的 TetrisXNaruto.exe 執行遊戲
   
   <img src="https://hackmd.io/_uploads/BJR2zx782.png" height="250" width="300px"/>
