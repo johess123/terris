@@ -4,13 +4,13 @@
   
   - 打開 dist 資料夾中的 TetrisXNaruto.exe 執行遊戲
   
-  ![](https://hackmd.io/_uploads/BJR2zx782.png)
+  <img src="https://hackmd.io/_uploads/BJR2zx782.png" height="240px" width="160px" />
   - 用滑鼠點擊選擇開始級數
   
-  ![image](https://github.com/johess123/tetris/assets/104426729/2d6e2593-746f-402f-bdf7-b858d322c77b)
+  <img src="https://github.com/johess123/tetris/assets/104426729/2d6e2593-746f-402f-bdf7-b858d322c77b" height="240px" width="160px" />
   - 遊戲結束之後可以選 "再輸一次" 繼續遊戲，或選 "含淚放棄" 關閉遊戲
   
-  ![image](https://github.com/johess123/tetris/assets/104426729/70a3a6de-61ef-49a9-8f5b-0e0945ece65a =100*200)
+  <img src="https://github.com/johess123/tetris/assets/104426729/70a3a6de-61ef-49a9-8f5b-0e0945ece65a" height="240px" width="160px" />
 <h2>操作方法</h2>
   
   - 左 A
